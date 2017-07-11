@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "Newbie"
+baseURL = "https:\/\/newbie.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = "newbie.com"
+
+[params]
+loginId = "1758904"
+subfolder = ""
